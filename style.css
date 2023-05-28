@@ -19,7 +19,6 @@ body {
   font-weight: 700;
   text-shadow: 2px 2px #f8a5c2;
   color: #f92672;
-  width: 37.5rem;
   text-align: center;
   margin: 2.5rem auto;
 }
@@ -51,7 +50,6 @@ button[disabled] {
 @media (max-width: 50rem) {
   .timer {
     font-size: 4rem;
-    width: 20rem;
   }
 
   button {
